@@ -1,7 +1,7 @@
 # Prescripto - Doctor Appointment Booking System
 
 ## Description
-**Prescripto** is a comprehensive Hospital Management System built on the MERN stack to enhance hospital operations. This system includes features such as secure user authentication, efficient appointment scheduling, patient record management, and real-time communication between doctors and patients. It provides a scalable and user-friendly platform to streamline healthcare workflows and improve the hospital experience.
+**Prescripto** is a comprehensive Doctor Appointment Booking System built on the MERN stack to enhance hospital operations. This system includes features such as secure user authentication, efficient appointment scheduling, patient record management, and real-time communication between doctors and patients. It provides a scalable and user-friendly platform to streamline healthcare workflows and improve the hospital experience.
 
 ## Features
 - **User Authentication**: Secure login for patients, doctors, and administrators.
